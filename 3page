@@ -1,0 +1,2105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+                            <script>
+                dataLayer = [{
+                    'ui': '7395008',
+                    'cy': 'UA',
+                    'rd': '2020-05-13 06:49:46',
+                    'cr': 'UAH',
+                    'le': 'ru:Русский',
+                    'ct': '14',
+                    'tt': 'unique',
+                    'ml': '0',
+                    'tr': '0',
+                    'ia': '1',
+                    'nw': true
+                }];
+            </script>
+                        <script async src="https://www.googleoptimize.com/optimize.js?id=GTM-NLKPN3Q"></script>
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://data.sendpulse.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NQT4SH');</script>
+    <!-- End Google Tag Manager -->
+    <title>Конструктор</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="/js/constructor/jquery-1.11.1.js" type="text/javascript"></script>
+    <script src="/libs/jquery/jquery.min.js"></script>
+    <script src="/libs/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/js/my/bootstrap-dialog.js"></script>
+
+            <link href="/dist/css/bootstrap.min.css?v=20250116124230"  rel="stylesheet" media="screen">
+    
+            <link rel="stylesheet" href="/dist/css/constructor/constructor.min.css?v=20250116124230">
+    
+<!--    <link href="--><!--/css/constructor/jquery.ui.base.css" rel="stylesheet" media="screen">-->
+    <link href="/css/constructor/jquery.ui.resizable.css" rel="stylesheet" media="screen">
+
+
+        <script src="/tinymce/tinymce.min.js" type="text/javascript"></script>
+
+    <script src="/js/constructor/jquery.md5.js" type="text/javascript"></script>
+    <script src="/js/constructor/jquery.minicolors.min.js" type="text/javascript"></script>
+    <script src="/js/my/blockui/jquery.blockUI.js"></script>
+    <script src="/dist/js/ma-blockui-styles.js"></script>
+    <script src="/dist/js/general.js" type="text/javascript"></script>
+    <script src="/js/my/moment-with-locales.js" type="text/javascript"></script>
+    <script src="/js/my/moment-locale-ua.js"></script>
+
+
+    <script src="/js/constructor/ui/jquery.ui.core.js" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.ui.widget.js" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.ui.mouse.js" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.ui.draggable.js" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.ui.droppable.js" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.ui.resizable.js" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.ui.sortable.js" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.ui.slider.js" type="text/javascript"></script>
+
+
+    <link href="/css/constructor/tui-color-picker.min.css" rel="stylesheet" media="screen">
+    <script src="/js/constructor/tui-color-picker.min.js" type="text/javascript"></script>
+    <!-- <script src="/js/constructor/tui-code-snippet.min.js" type="text/javascript"></script> -->
+    <link href="/css/constructor/tui-image-editor.min.css" rel="stylesheet" media="screen">
+    <script src="/js/constructor/tui-image-editor.min.js" type="text/javascript"></script>
+
+    <script src="/libs/angular/angular.min.js" type="text/javascript"></script>
+    <script src="/libs/angular-jwt/angular-jwt.min.js" type="text/javascript"></script>
+    <script src="/libs/angular-cookies/angular-cookies.min.js" type="text/javascript"></script>
+    <script src="/dist/members/app/custom.js?20250116124230" type="text/javascript"></script>
+
+    <script src="/dist/js/constructor/main.js?20250116124230" type="text/javascript"></script>
+    <script src="/js/constructor/base64.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/emailconstructor.js?20250116124230" type="text/javascript"></script>
+    <script src="/dist/js/constructor/editor.js?20250116124230" type="text/javascript"></script>
+    <script src="/dist/js/constructor/dragndrop.js?20250116124230" type="text/javascript"></script>
+    <script src="/dist/js/constructor/elements.js?20250116124230" type="text/javascript"></script>
+    <script src="/dist/js/constructor/layout.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/section.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/basics-text.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/simpletext.js" type="text/javascript"></script>
+        <script src="/dist/js/constructor/image.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/image-simple.js?20250116124230" type="text/javascript"></script>
+    <script src="/dist/js/constructor/image-group.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/image-text.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/button.js?20250116124230" type="text/javascript"></script>
+    <script src="/dist/js/constructor/delimiter.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/video.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/social_net.js?20250116124230" type="text/javascript"></script>
+    <script src="/dist/js/constructor/share.js" type="text/javascript"></script>
+    <script src="/js/constructor/unsubscribe.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/checkout.js" type="text/javascript"></script>
+    <script src="/dist/js/constructor/templates.js?20250116124230" type="text/javascript"></script>
+    <script src="/js/constructor/ui/jquery.fileupload.js" type="text/javascript"></script>
+    <script src="/js/constructor/genhtml.js" type="text/javascript"></script>
+    <script src="/js/interpretator.js" type="text/javascript"></script>
+    <script src="/js/constructor/shortcut.js" type="text/javascript"></script>
+    <script src="/js/jquery-form/jquery.form.js" type="text/javascript"></script>
+
+<style></style>
+
+<style id="global_constructor_css"></style>
+
+        
+    <meta name="norton-safeweb-site-verification" content="ify4cpp-jsmqzwreu4-x03199z2nnw4o4bv7768eo4-zjxchbq7gvx7cwduckszm85equbjrsyy7rr9gferx13ts8agycc8j37mrpu7xjyf1rr4w4a-4kv6-yx93swt7" />
+
+    
+
+</head>
+
+<body>
+<nav id="constructorHeader" class="navbar navbar-inverse navbar-fixed-top constructor-header">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">
+                <img src="/img/sendpulse-logo-menu.svg" width="32" height="32" alt="SendPulse"/>
+            </a>
+        </div>
+
+        <div class="navbar-text">
+            <span class="template-name js-template-name" id="global_template_name">
+                Без названия            </span>
+            <div class="small" id="global_template_saved">
+                Не сохранено            </div>
+        </div>
+
+        <ul id="navbarControls" class="nav navbar-nav navbar-right navbar-nav-constructor">
+            <div id="constructor-help" class="sp-constructor-popover">
+                <button class="btn btn-default js-constructor-popover-toggle sp-navbar-btn sp-navbar-btn-partners" data-toggle="popover">
+                    <img src="/img/my/sp-icon-backward.svg" alt="">
+                </button>
+
+                <div class="hidden js-constructor-popover-content">
+                    <button type="button" class="close" data-toggle="popover" aria-hidden="true">&times;</button>
+                    <img src="/img/my/sp-popover-backward.png" alt="">
+                    <p>Нужна помощь в создании шаблона? Подберите специалиста для своего проекта в нашем каталоге партнеров.</p>
+                    <a class="btn btn-primary btn-block" href="https://sendpulse.com/ru/partner-directory?utm_source=sendpulse-service&utm_medium=partner-window&utm_campaign=email-builder-ru"
+                       target="_blank" rel="noopener">Открыть каталог</a>
+                </div>
+            </div>
+
+            <div class="btn-group btn-undo-redo animate" role="group" aria-label="...">
+                <button type="button" class="btn btn-default sp-navbar-btn" id="email_constructor_undo_button" onclick="oEmailConstructor.historyUndo();" title="Ctrl+Z">
+                    <i class="sp-icon icon-redo flip-horizontal"></i>
+                </button>
+                <button type="button" class="btn btn-default sp-navbar-btn " id="email_constructor_redo_button" onclick="oEmailConstructor.historyRedo(); return false;" title="Ctrl+Shift+Z">
+                    <i class="sp-icon icon-redo"></i>
+                </button>
+            </div>
+
+            <button type="button"  onclick="oEmailConstructor.startTestMail();" class="btn btn-primary btn-preview-active navbar-btn sp-navbar-btn js-start-test-mail">
+                Тестовое письмо            </button>
+
+            <button type="button" class="btn btn-action btn-preview-active navbar-btn sp-navbar-btn" data-toggle="collapse"
+                    data-target="#collapsePreview" aria-expanded="false" aria-controls="collapsePreview">
+                <span>
+                    <span class="sp-icon icon-arrow-left1"></span>К редактированию                </span>
+            </button>
+
+            <button type="button" class="btn btn-default btn-preview navbar-btn sp-navbar-btn" data-toggle="collapse"
+                    data-target="#collapsePreview" aria-expanded="false" aria-controls="collapsePreview">
+                Просмотр            </button>
+
+            <!-- <button type="button" class="btn btn-primary navbar-btn sp-navbar-btn">Сохранить и продолжить</button> -->
+            <div class="btn-group">
+                <button type="button" id="saveandcontinuebutton" class="btn btn-action navbar-btn sp-navbar-btn" onclick="oEmailConstructor.checkToSwitchToSteps(5);">Сохранить и продолжить</button>
+
+                <button type="button" class="btn btn-action navbar-btn sp-navbar-btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a href="#" onclick="oEmailConstructor.startTestMail();">Отправить тестовое письмо</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="#" onclick="oEmailConstructor.clickSaveAndExit();">Сохранить и выйти</a></li>
+                    <li><a href="#" onclick="oEmailConstructor.clickSaveTemplate(false);" id="save_template_button">Сохранить как шаблон</a></li>
+                                    </ul>
+            </div>
+            <button type="button" class="btn btn-link navbar-btn btn-close-constructor animate" onclick="oEmailConstructor.closeConstructor();">
+                <span class="sp-icon icon-closed"></span>
+            </button>
+        </ul>
+    </div><!-- /.container-fluid -->
+    <div class="collapse" id="collapsePreview">
+        <div id="preview" class="preview">
+        </div>
+    </div>
+
+</nav>
+<div id="page-wrapper-old"><div id="content-placeholder">
+<div class="construct-container">
+    <div class="panel-elements" >
+        <div class="email-structure" id="email-structure">
+            <button class="addStructureBtnLeft element collapsed addstructure" data-toggle="collapse" data-target="#collapseStructures" id="addStructureBtnLeft" elemtype="">
+                <div class="element-icon">
+                    <img width="72" src="/img/constructor/v2/sp-i-c-structure.svg" alt="share">
+                </div>
+                Добавить структуру            </button>
+
+            <div class="element text-block draggable mail_text_simple" elemtype="mail_text_simple">
+                <div class="element-icon">
+                    <img src="/img/constructor/v2/sp-i-c-text.svg" width="72" alt="text">
+                </div>
+                Текст            </div>
+            <div class="test1408 element draggable image" elemtype="mail_image_simple">
+                <div class="element-icon">
+                    <img src="/img/constructor/v2/sp-i-c-image.svg" width="72" alt="image">
+                </div>
+                Картинка            </div>
+            <div class="element draggable" elemtype="mail_button">
+                <div class="element-icon">
+                    <img src="/img/constructor/v2/sp-i-c-button.svg" width="72" alt="button">
+                </div>
+                Кнопка            </div>
+            <div class="element draggable" elemtype="mail_delimiter">
+                <div class="element-icon">
+                    <img src="/img/constructor/v2/sp-i-c-spacer.svg" width="72" alt="spacer">
+                </div>
+                Разделитель            </div>
+            <div class="element draggable" elemtype="mail_video">
+                <div class="element-icon">
+                    <img src="/img/constructor/v2/sp-i-c-player.svg" width="72" alt="share">
+                </div>
+                Видео            </div>
+            <div class="element draggable" elemtype="mail_social_net">
+                <div class="element-icon">
+                    <img src="/img/constructor/v2/sp-i-c-share.svg" width="72" alt="share">
+                </div>
+                Соц.сети            </div>
+
+                          <div class="element draggable" elemtype="mail_button_checkout_v2">
+                  <div class="element-icon">
+                      <img src="/img/constructor/v2/sp-i-c-shop.svg" width="72" alt="checkout">
+                  </div>
+                  Оплата              </div>
+            
+            
+        </div>
+    </div>
+    <div class="mail-body">
+        <div class="email-wrapper" id="email-wrapper">
+
+                        <div id="DroppableDiv" class="layout droppable customer-email mobile-mail-repl" current-email-width="600"
+                 style="padding-top:20px; /* border: 1px solid red; */"></div>
+            
+            <div class="clearfix"></div>
+            <div class="well has-feedback mt hidden" id="js_no_unsub_link" style="margin-top: 10px">
+                <p class="help-block small italic-gray-font text-center" >
+                    <span class="sp-icon icon-spam color-light"></span>
+                                            В шаблоне нет ссылки на <a href='https://sendpulse.com/ru/knowledge-base/email-service/mailing-list-recipients/how-to-add-an-unsubscribe-link' style='color: #0089bf;' target='_blank'>страницу отписки</a>. Вставьте ее, используя шорткод {{unsubscribe_url}}, или она добавится автоматически.                                    </p>
+                <button onclick="oEmailConstructor.hideNoUnsubscribeUrlWarning()"
+                        class="close form-control-feedback"
+                        style="right: 0; pointer-events: auto;">
+                    ×
+                </button>
+            </div>
+            <div class="structures-wrapper text-center email-sized-wrapper">
+                <div class="structures-btn-wrapper">
+                    <button id="addStructureBtn" type="button" class="btn btn-success collapsed"  data-toggle="collapse" data-target="#collapseStructures" >
+                        <b class="toggle-icon">+</b> <strong>Добавить структуру</strong>
+                    </button>
+                </div>
+                
+                <div class="collapse collapse-structures collapse-checkout floating" id="collapseCheckout">
+                    <div class="structures-holder">
+                        <h5 class="text-left">Выберите кнопку оплаты</h5>
+                        <div class="clearfix">
+
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div class="collapse collapse-structures" id="collapseStructures">
+                    <div class="structures-holder">
+                        <ul class="nav nav-pills nav-sm " role="tablist">
+                            <li role="presentation" class="active"><a href="#basic" class="keepopen" aria-controls="basic" role="tab"
+                              data-toggle="tab">Пустые&nbsp;колонки</a></li>
+                            <li role="presentation"><a href="#samples" class="keepopen samples" aria-controls="samples" role="tab"
+                               data-toggle="tab">Примеры</a></li>
+                            <li role="presentation"><a href="#saved" class="keepopen" aria-controls="saved" role="tab"
+                               data-toggle="tab">Сохраненные</a></li>
+                        </ul>
+
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane fade in active" id="basic">
+                                <div id="carousel-empty-structures" class="carousel slide carousel-structures-holder" data-ride="carousel" data-interval="false">
+                                    <ol class="carousel-indicators">
+                                        <li data-target="#carousel-empty-structures" data-slide-to="0" class="active"></li>
+                                        <li data-target="#carousel-empty-structures" data-slide-to="1"></li>
+                                    </ol>
+                                    <a class="left carousel-control" href="#carousel-empty-structures" role="button" data-slide="prev">
+                                        <span class="icon-prev" aria-hidden="true"></span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                    <a class="right carousel-control" href="#carousel-empty-structures" role="button" data-slide="next">
+                                        <span class="icon-next" aria-hidden="true"></span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+
+                                    <div class="carousel-inner" role="listbox">
+                                        <div class="item active">
+                                            <div class="row form-row">
+                                                <div class="col-sm-6">
+                                                    <div class="well struc-element draggable line_only" elemtype="empty_area_1_column">
+                                                        <img src="/img/constructor/v2/col1.png" width="200" height="47">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="well struc-element draggable line_only" elemtype="empty_area_2_column">
+                                                        <img src="/img/constructor/v2/col2.png" width="200" height="47">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="well struc-element draggable line_only" elemtype="empty_area_3_column">
+                                                        <img src="/img/constructor/v2/col3.png" width="200" height="47">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="well struc-element draggable line_only" elemtype="empty_area_4_column">
+                                                        <img src="/img/constructor/v2/col4.png" width="200" height="47">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="well struc-element draggable line_only" elemtype="empty_area_1_3_column">
+                                                        <img src="/img/constructor/v2/col2-1-3.png" width="200" height="47">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="well struc-element draggable line_only" elemtype="empty_area_3_1_column">
+                                                        <img src="/img/constructor/v2/col2-3-1.png" width="200" height="47">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div role="tabpanel" class="tab-pane fade" id="samples">
+                                <div id="carousel-default-structures" class="carousel slide" data-ride="carousel" data-interval="false">
+                                    <ol class="carousel-indicators" id="carousel-samples-elements_paginator">
+                                        <li data-target="#carousel-default-structures" data-slide-to="0" class="active"></li>
+                                        <li data-target="#carousel-default-structures" data-slide-to="1"></li>
+                                    </ol>
+                                    <a class="left carousel-control" href="#carousel-default-structures" role="button" data-slide="prev">
+                                        <span class="icon-prev" aria-hidden="true"></span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                    <a class="right carousel-control" href="#carousel-default-structures" role="button" data-slide="next">
+                                        <span class="icon-next" aria-hidden="true"></span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+
+                                    <div class="carousel-inner" role="listbox" id="example_block_list">
+                                        <div class="item active">
+                                            <div class="row form-row">
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only preheader" elemtype="block_examples" blockname="preheader">
+                                                        <div class="struc-name"><span class="badge">Прехедер</span></div>
+                                                        <img src="/img/constructor/v2/struc-preheader.svg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only" elemtype="block_examples" blockname="footer">
+                                                        <div class="struc-name"><span class="badge">Футер</span></div>
+                                                        <img src="/img/constructor/v2/struc-footer.svg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only footer_onboarding" elemtype="block_examples" blockname="footer-alt">
+                                                        <div class="struc-name"><span class="badge">Футер</span></div>
+                                                        <img src="/img/constructor/v2/struc-footer-2.svg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only" elemtype="block_examples" blockname="unsubscribe">
+                                                        <div class="struc-name"><span class="badge">Отписаться</span></div>
+                                                        <img src="/img/constructor/v2/struc-unsubscribe.svg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only" elemtype="block_examples" blockname="right-col">
+                                                        <img src="/img/constructor/v2/struc-sample-1.svg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only" elemtype="block_examples" blockname="left-col">
+                                                        <img src="/img/constructor/v2/struc-sample-2.svg" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="item">
+                                            <div class="row form-row">
+
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only" elemtype="block_examples" blockname="center-aligned">
+                                                        <img src="/img/constructor/v2/struc-sample-3.svg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only" elemtype="block_examples" blockname="two-cols">
+                                                        <img src="/img/constructor/v2/struc-sample-4.svg" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-4">
+                                                    <div class="well struc-element draggable line_only" elemtype="block_examples" blockname="tree-cols">
+                                                        <img src="/img/constructor/v2/struc-sample-5.svg" alt="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div role="tabpanel" class="tab-pane fade" id="saved">
+                                <div id="carousel-saved-elements" class="carousel slide carousel-structures-holder" data-ride="carousel" data-interval="false">
+                                    <ol class="carousel-indicators" id="carousel-saved-elements_paginator">
+                                    </ol>
+                                    <a class="left carousel-control" href="#carousel-saved-elements" role="button" data-slide="prev">
+                                        <span class="icon-prev" aria-hidden="true"></span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                    <a class="right carousel-control" href="#carousel-saved-elements" role="button" data-slide="next">
+                                        <span class="icon-next" aria-hidden="true"></span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+
+                                    <div class="carousel-inner" role="listbox" id="users_blocks_list"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <div class="panel-options">
+        <div class="options">
+            <ul class="nav nav-pills editor_switcher" role="tablist" id="editor_switcher">
+                <li role="presentation" id="body-tab" class="body-tab active"><a href="#body" aria-controls="profile" role="tab"
+                    data-toggle="tab"><i class="tab-icon icon-mail-setting"></i><span class="tab-text">Тело письма</span></a></li>
+                <li role="presentation" id="element-tab" class="element-tab" style="visibility: hidden;" data-deftext="Секция"><a href="#current" aria-controls="home" role="tab"
+                    data-toggle="tab"><i class="tab-icon icon-mail-text-simple"></i><span class="tab-text">Секция</span></a></li>
+            </ul>
+            <div class="tab-content" id="email_global_settings">
+
+                <div role="tabpanel" class="tab-pane fade" id="current">
+                    <div class="tab-content">
+                        <div role="tabpanel" id="current-block" class="tab-pane fade active in">
+                            <p class="text-muted text-center small"><br>Не выбран элемент для редактирования<br><br>Кликните по нужному блоку для редактирования </p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div role="tabpanel" class="tab-pane fade active in" id="body">
+                    <div class="form form-horizontal">
+
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Ширина контента</label>
+                            <div class="col-sm-6 form-inline text-right">
+                                <select id="email_width_select" class="form-control" onchange="oEditor.changeEmailWidth(this.value)">
+                                    <option value="500px">500px</option>
+                                    <option value="550px">550px</option>
+                                    <option value="600px">600px</option>
+                                    <option value="650px">650px</option>
+                                    <option value="700px">700px</option>
+                                </select>
+                            </div>
+                        </div>
+
+
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Фон письма</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control minicolors" value="" id="email_global_settings_bg_color" autocomplete="new-password">
+                            </div>
+                        </div>
+
+                        <div class="form-group js-block-bg-image-upload" id="block_bg_image_not_uploaded">
+                            <label class="col-sm-6 control-label">Фоновая картинка</label>
+                            <div class="col-sm-6">
+                                <div class="btn-group btn-group-justified bg-image-selector" role="group">
+                                    <div class="btn-group" role="group">
+                                        <button class="btn btn-grey "
+                                                onclick="oEmailConstructor.openImageUploadDialog('','',false); return false;">Выбрать…</button>
+                                    </div>
+                                    <div class="btn-group" role="group">
+                                        <button type="button" class="btn btn-grey dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="caret"></span>
+                                        </button>
+                                        <ul class="dropdown-menu dropdown-menu-right">
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern1.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern1.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern2.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern2.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern3.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern3.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern4.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern4.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern5.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern5.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern6.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern6.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern7.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern7.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern8.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern8.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern9.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern9.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern10.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern10.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern11.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern11.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern12.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern12.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern13.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern13.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern14.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern14.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern15.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern15.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern16.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern16.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern17.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern17.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern18.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern18.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern19.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern19.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern20.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern20.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern21.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern21.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern22.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern22.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern23.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern23.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern24.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern24.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern25.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern25.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern26.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern26.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern27.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern27.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern28.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern28.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern29.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern29.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern30.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern30.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern31.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern31.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern32.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern32.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern33.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern33.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern34.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern34.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern35.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern35.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern36.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern36.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern37.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern37.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern38.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern38.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern39.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern39.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern40.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern40.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern41.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern41.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern42.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern42.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern43.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern43.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern44.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern44.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern45.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern45.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern46.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern46.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern47.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern47.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern48.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern48.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern49.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern49.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern50.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern50.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern51.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern51.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern52.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern52.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern53.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern53.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern54.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern54.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern55.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern55.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern56.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern56.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern57.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern57.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern58.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern58.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern59.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern59.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern60.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern60.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern61.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern61.png')"></li>
+                                                                                            <li onclick="oEditor.changeGlobalSettings('bg_image_pattern','/img/constructor/patterns/pattern62.png'); return false;" class="body_pattern" style="background-image:url('/img/constructor/patterns/pattern62.png')"></li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="block_bg_image_uploaded" class="hidden js-block-bg-image-upload">
+                            <div class="email-constructor-image">
+                                <div class="email-constructor-image-thumbnail js-settings-bg-image-preview">
+                                </div>
+                                <div class="email-constructor-image-description">
+                                    <div>
+                                        <span class="js-settings-bg-image-file-name email-constructor-file-name strip-text d-block"></span>
+                                        <span class="js-settings-bg-image-file-size email-constructor-image-size"></span>
+                                    </div>
+                                    <div class="email-constructor-image-buttons">
+                                        <button title="Заменить" class="btn" onclick="oEmailConstructor.openImageUploadDialog('','',false); return false;">
+                                            <i class="sp-icon icon-browser-upload-2"></i>
+                                        </button>
+                                        <button title="Редактировать" class="btn" onclick="oEditor.clickToEditImage('body'); return false;"><i class="sp-icon icon-crop"></i></button>
+                                        <button title="Удалить" class="btn" onclick="oEditor.changeGlobalSettings('bg_image',0); return false;">
+                                            <i class="sp-icon icon-trash"></i>
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="col-sm-6 control-label">Повторять фон</label>
+                                <div class="col-sm-6 dropdown">
+                                    <select class="form-control js-settings-bg-image-repeat-select"
+                                            onchange="oEditor.changeGlobalSettings('bg_repeat', $(this).val()); return false;">
+                                        <option value="no-repeat" selected>Без повтора</option>
+                                        <option value="repeat-x">по горизонтали</option>
+                                        <option value="repeat-y">по вертикали</option>
+                                        <option value="repeat">Оба</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group js-block-settings-bg-image-position">
+                                <label class="col-sm-6 control-label">Расположение</label>
+                                <div class="col-sm-6 dropdown">
+                                    <select class="form-control js-settings-bg-image-position-select"
+                                            onchange="oEditor.changeGlobalSettings('bg_position', $(this).val()); return false;">
+                                        <option value="center">По центру</option>
+                                        <option value="center top">По центру вверху</option>
+                                        <option value="center bottom">По центру внизу</option>
+                                        <option value="right top">Справа вверху</option>
+                                        <option value="right center">Справа по центру</option>
+                                        <option value="right bottom">Справа внизу</option>
+                                        <option value="left top" selected>Слева вверху</option>
+                                        <option value="left center">Слева по центру</option>
+                                        <option value="left bottom">Слева внизу</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-sm-1 glyphicon glyphicon-info-sign color-light"></div>
+                                <div class="col-sm-11 text-muted small">
+                                    Фоновые изображения работают не во всех email-клиентах                                </div>
+                            </div>
+                        </div>
+
+                        <hr>
+
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Фон контейнера</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control minicolors" value="" id="email_global_settings_body_bg_color" autocomplete="new-password">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Цвет текста</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control minicolors" value="" id="global_settings_font_color_input" autocomplete="new-password">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Цвет ссылок</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control minicolors" value="" id="global_settings_link_color_input" autocomplete="new-password">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Шрифт</label>
+                            <div class="col-sm-6">
+                                <select class="form-control"  id="email_editor_font_family_select" onchange="oEditor.changeGlobalSettings('font_family',$(this).val()); return false;">
+                                    <option value='arial'>Arial</option>
+                                    <option value='helvetica'>Helvetica</option>
+                                    <option value='georgia'>Georgia</option>
+                                    <option value='lucida'>Lucida</option>
+                                    <option value='times-new-roman'>Times New Roman</option>
+                                    <option value='comic-sans'>Comic Sans</option>
+                                    <option value='courier_new'>Courier New</option>
+                                    <option value='tahoma'>Tahoma</option>
+                                    <option value='trebuchet'>Trebuchet</option>
+                                    <option value='verdana'>Verdana</option>
+                                    <option value='segoe'>Segoe</option>
+                                    <!--<option value='rockwell'>Rockwell</option>-->
+                                    <!--<option value='gill'>Gill Sans</option>-->
+                                    <option value='sans-serif'>Sans Serif</option>
+                                    <option value='serif'>Serif</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Размер шрифта</label>
+                            <div class="col-sm-5 col-sm-offset-1">
+                                <div class="input-group">
+                                    <input type="number" class="form-control" pattern="[0-9]{0,3}" value="" id="global_settings_font_size_input" autocomplete="new-password">
+                                    <span class="input-group-addon"><small>px</small></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-sm-6 control-label">Высота строки</label>
+                            <div class="col-sm-6">
+                                <div class="btn-group btn-group-justified" data-toggle="buttons" id="email_editor_global_line_height">
+                                    <label class="btn btn-grey" title="1" onclick="oEditor.changeGlobalSettings('line_height',1);">
+                                        <input type="radio" name="options12" autocomplete="off"> <img src="/img/constructor/v2/lh1.svg" alt="1">
+                                    </label>
+                                    <label class="btn btn-grey" title="1.2" onclick="oEditor.changeGlobalSettings('line_height',1.2);">
+                                        <input type="radio" name="options12" autocomplete="off"> <img src="/img/constructor/v2/lh12.svg" alt="1.2">
+                                    </label>
+                                    <label class="btn btn-grey" title="1.5" onclick="oEditor.changeGlobalSettings('line_height',1.5);">
+                                        <input type="radio" name="options12"  autocomplete="off"> <img src="/img/constructor/v2/lh15.svg" alt="1.5">
+                                    </label>
+                                    <label class="btn btn-grey" title="2" onclick="oEditor.changeGlobalSettings('line_height',2);">
+                                        <input type="radio" name="options12" autocomplete="off"> <img src="/img/constructor/v2/lh2.svg" alt="2">
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <hr>
+                        <div class="form-group" id="mail_global_settings_body_border">
+                            <div class="checkbox col-sm-6">
+                                <label class="form-control-static">
+                                    <input type="checkbox" id="mail_global_settings_body_border_switcher" onclick="oEditor.changeGlobalBorder()">
+                                    Контур                                </label>
+                            </div>
+
+                            <div class="clearfix mail_block_border_settings"></div>
+
+                            <div class="col-sm-4 mail_block_border_settings">
+                                <div class="input-group">
+                                    <input type="number" class="form-control" pattern="[0-9]{0,2}" min="1" value="1" autocomplete="new-password" id="mail_global_settings_body_border_width"
+                                           onkeyup="oEditor.changeGlobalSettings('body_border_width',$(this).val());" onclick="oEditor.changeGlobalSettings('body_border_width',$(this).val());">
+                                    <span class="input-group-addon small"><small>px</small></span>
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-8 mail_block_border_settings">
+                                <input type="text" class="form-control minicolors" value="" id="mail_global_settings_body_border_color" autocomplete="new-password">
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="constructor_file_path" value="/files/emailservice/userfiles/40c37c258163a8958d40eac40eeca3d27395008/"/>
+    <input type="hidden" name="constructor_file_upload_action" value="upload_cloud.php"/>
+</div>
+
+
+
+<div id="preview" style="display:none">
+    <div id="preview_body"></div>
+</div>
+
+<div style="display: none">
+    <div id="email_constructor_default_text_simple_text"><p><span style="font-size: 20px;" ><strong>Новый текстовый блок</strong></span></p><span>Кликните внутри блока и начните добавлять текст.</span></div>
+    <div id="email_constructor_default_preheader_text"><p><span style='font-size: 12px; color: #808080;'>Введите краткое описание своего сообщения. Этот текст может быть показан при предпросмотре письма.</span></p></div>
+    <div id="email_constructor_default_footer_text_column_1"><span>Вы получили данную рассылку, так как являетесь клиентом или подписчиком {{ec_es_email_sender_company}}<br />© Copyright, 2001-2025, {{ec_es_email_sender_company}}<br />Если хотите отказаться от получения рассылки, перейдите по ссылке отписаться.</span></div>
+    <div id="email_constructor_default_footer_text_column_2"><span>Наш адрес:<br />{{ec_es_email_sender_address}}<br />Тел. {{ec_es_email_sender_phone}}</span></div>
+    <div id="email_constructor_default_button_text">Кнопка</div>
+    <div id="email_constructor_default_areyousure_text">Вы уверены?</div>
+    <div id="email_constructor_default_card_text">Добавьте сюда описание изображения.</div>
+    <div id="email_constructor_default_unsubscribe_text">Отказаться от рассылки</div>
+
+    <div id="email_constructor_drop_image_here">или перетащите сюда картинку</div>
+    <div id="email_constructor_or">или</div>
+    <div id="email_constructor_upload_from_disc">Загрузите с диска</div>
+    <div id="email_constructor_select_file">Выбрать…</div>
+    <div id="email_constructor_save_and_continue">Сохранить и продолжить</div>
+    <div id="email_constructor_save_and_continue_2">Отправить рассылку</div>
+
+    <input type="hidden" id="email_constructor_address_book_id" value="0">
+    <input type="hidden" id="email_constructor_users_country" value="UA">
+    <input type="hidden" id="email_constructor_template_id" value="1153145">
+    <input type="hidden" id="email_constructor_system_template" value="1">
+    <input type="hidden" id="email_constructor_common_template" value="1">
+    <input type="hidden" id="email_constructor_template_name_empty" value="Вы не ввели название шаблона">
+    <input type="hidden" id="email_constructor_template_name_onload" value="">
+    <input type="hidden" id="email_constructor_template_name_default" value="Шаблон">
+
+    <input type="hidden" id="not_filled_fields_mail_social_net" value="Добавьте ссылку в Социальных сетях">
+    <input type="hidden" id="not_filled_fields_mail_image_basic" value="Добавьте изображение">
+    <input type="hidden" id="not_filled_fields_mail_button_basic" value="Добавьте ссылку в Кнопке">
+    <input type="hidden" id="not_filled_fields_mail_video_basic" value="Добавьте ссылку на Видео">
+    <input type="hidden" id="not_filled_fields_mail_text_basic" value="Добавьте больше текста в шаблон">
+
+    <input type="hidden" id="email_constructor_text_left" value="Слева">
+    <input type="hidden" id="email_constructor_text_center" value="По центру">
+    <input type="hidden" id="email_constructor_text_right" value="Справа">
+    <input type="hidden" id="email_constructor_text_bold" value="Жирное">
+    <input type="hidden" id="email_constructor_text_normal" value="Нормальное">
+    <input type="hidden" id="email_constructor_menu_hint_move" value="Перетащить">
+    <input type="hidden" id="email_constructor_menu_hint_copy" value="Скопировать">
+    <input type="hidden" id="email_constructor_menu_hint_delete" value="Удалить">
+    <input type="hidden" id="email_constructor_menu_hint_one_column" value="Одна колонка">
+    <input type="hidden" id="email_constructor_menu_hint_left_big_column" value="Колонка справа">
+    <input type="hidden" id="email_constructor_menu_hint_right_big_column" value="Колонка слева">
+    <input type="hidden" id="email_constructor_menu_hint_single_column" value="Две колонки">
+    <input type="hidden" id="email_constructor_before_unload_message" value="Вы уверены, что хотите закрыть страницу? Все сделанные изменения будут потеряны. Если хотите сохранить результат своей работы, отмените закрытие страницы и нажмите кнопку Сохранить.">
+    <input type="hidden" id="email_constructor_menu_hint_column_width" value="Ширина колонок">
+    <input type="hidden" id="email_constructor_menu_hint_hidden_mobile" value="Скрыт на мобильном">
+    <input type="hidden" id="email_constructor_socnet_names" value='{"facebook":"Facebook","google":"Google+","twitter":"Twitter","vk":"\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435","odnoklassniki":"\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438","linkedin":"LinkedIn","pinterest":"Pinterest"}'>
+    <input type="hidden" id="email_constructor_socnet_name_facebook" value='Facebook'>
+    <input type="hidden" id="email_constructor_socnet_name_fb-messenger" value='Facebook Messenger'>
+    <input type="hidden" id="email_constructor_socnet_name_twitter" value='X (Twitter)'>
+    <input type="hidden" id="email_constructor_socnet_name_google" value='Google+'>
+    <input type="hidden" id="email_constructor_socnet_name_vk" value='Вконтакте'>
+    <input type="hidden" id="email_constructor_socnet_name_odnoklassniki" value='Одноклассники'>
+    <input type="hidden" id="email_constructor_socnet_name_instagram" value='Instagram'>
+    <input type="hidden" id="email_constructor_socnet_name_youtube" value='YouTube'>
+    <input type="hidden" id="email_constructor_socnet_name_blogger" value='Blogger'>
+    <input type="hidden" id="email_constructor_socnet_name_flickr" value='Flickr'>
+    <input type="hidden" id="email_constructor_socnet_name_linkedin" value='LinkedIn'>
+    <input type="hidden" id="email_constructor_socnet_name_pinterest" value='Pinterest'>
+    <input type="hidden" id="email_constructor_socnet_name_tumblr" value='Tumblr'>
+    <input type="hidden" id="email_constructor_socnet_name_vimeo" value='Vimeo'>
+    <input type="hidden" id="email_constructor_socnet_name_slideshare" value='SlideShare'>
+
+    <input type="hidden" id="email_constructor_socnet_name_telegram" value='Telegram'>
+    <input type="hidden" id="email_constructor_socnet_name_periscope" value='Periscope'>
+    <input type="hidden" id="email_constructor_socnet_name_whatsapp" value='WhatsApp'>
+    <input type="hidden" id="email_constructor_socnet_name_viber" value='Viber'>
+    <input type="hidden" id="email_constructor_socnet_name_snapchat" value='Snapchat'>
+    <input type="hidden" id="email_constructor_socnet_name_medium" value='Medium'>
+    <input type="hidden" id="email_constructor_socnet_name_tiktok" value='TikTok'>
+    <input type="hidden" id="email_constructor_socnet_name_yandexzen" value='Yandex.Zen'>
+    <input type="hidden" id="email_constructor_socnet_name_reddit" value='Reddit'>
+    <input type="hidden" id="email_constructor_socnet_name_discord" value='Discord'>
+    <input type="hidden" id="email_constructor_socnet_name_threads" value='Threads'>
+
+
+    <input type="hidden" id="email_constructor_saved_ago_template" value="Сохранено <span id='lastSaved'>XXX</span>">
+    <input type="hidden" id="email_constructor_socnet_url_placeholder_follow" value="полный url или id страницы">
+    <input type="hidden" id="email_constructor_socnet_url_placeholder_link" value="введите url страницы">
+    <input type="hidden" id="email_constructor_test_email_no_senders_message" value="Необходимо выбрать хотя бы одного отправителя">
+    <input type="hidden" id="email_constructor_read_more" value="Подробнее">
+    <input type="hidden" id="email_constructor_menu_hint_save" value='Сохранить блок'>
+    <input type="hidden" id="email_constructor_default_button_checkout_text" value="Заплатить">
+    <input type="hidden" id="email_constructor_default_button_checkout_product_name" value="Продукт">
+    <input type="hidden" id="default_step_new_text" value="Новые">
+    <input type="hidden" id="default_step_in_progress_text" value="В работе">
+    <input type="hidden" id="default_step_done_text" value="На подпись">
+    <input type="hidden" id="default_pipeline_text" value="Основная воронка">
+    <input type="hidden" id="email_constructor_default_button_checkout_qiwi_text" value="Заплатить через QIWI">
+    <input type="hidden" id="email_constructor_filemanager_error" value="<p>Возникла ошибка при загрузке списка файлов</p><p>Попробуйте перезагрузить страницу</p>">
+
+    <div id="email_constructor_save_template_menu">Сохранить шаблон</div>
+
+    <div id="user-lang">ru</div>
+    <div id="current_lang">ru</div>
+
+    <div id="unsub-link-body">
+        <div style="text-align: right;"><span style="font-size: 12px;"><a href="{{webversion}}">Просмотреть сообщение онлайн</a></span></div>
+    </div>
+    <div style="display: none;" id="variables_ab"></div>
+    <div style="display: none;" id="customPanel"></div>
+
+    <div id="empty_editor_message"><p class="text-muted text-center small"><br>Не выбран элемент для редактирования<br><br>Кликните по нужному блоку для редактирования </p></div>
+
+
+    <input type="hidden" id="tinymce_plugin_interpretator_title" value="Добавить условие">
+    <input type="hidden" id="tinymce_plugin_interpretator_variable" value="Переменные">
+    <input type="hidden" id="tinymce_plugin_interpretator_button" value="Добавить условие">
+    <input type="hidden" id="tinymce_plugin_interpretator_ifvar" value="Если значение переменной">
+    <input type="hidden" id="tinymce_plugin_interpretator_equal" value="равно">
+    <input type="hidden" id="tinymce_plugin_interpretator_empty" value="пустое">
+    <input type="hidden" id="tinymce_plugin_interpretator_value" value="">
+    <input type="hidden" id="tinymce_plugin_interpretator_then" value="тогда использовать такой текст">
+    <input type="hidden" id="tinymce_plugin_interpretator_else" value="иначе использовать такой текст">
+    <input type="hidden" id="tinymce_plugin_interpretator_condition" value="">
+    <input type="hidden" id="tinymce_plugin_interpretator_more" value="больше">
+    <input type="hidden" id="tinymce_plugin_interpretator_more_equals" value="равно или больше">
+    <input type="hidden" id="tinymce_plugin_interpretator_not_equal" value="не равно">
+    <input type="hidden" id="tinymce_plugin_interpretator_contains" value="содержит">
+    <input type="hidden" id="tinymce_plugin_interpretator_not_contains" value="не содержит">
+    <input type="hidden" id="tinymce_plugin_interpretator_starts_with" value="начинается с">
+    <input type="hidden" id="tinymce_plugin_interpretator_ends_with" value="заканчивается на">
+    <input type="hidden" id="tinymce_plugin_interpretator_less" value="меньше">
+    <input type="hidden" id="tinymce_plugin_interpretator_less_equals" value="равно или меньше">
+    <input type="hidden" id="tinymce_plugin_interpretator_then_placeholder" value="Приглашаем вас...">
+    <input type="hidden" id="tinymce_plugin_interpretator_else_placeholder" value="{{Name}}, приглашаем вас...">
+    <input type="hidden" id="tinymce_plugin_interpretator_select_varuable" value="Выберите переменную">
+
+    <input type="hidden" id="tinymce_plugin_link_link_insert" value="Вставить ссылку">
+    <input type="hidden" id="tinymce_plugin_link_link_address" value="Адрес ссылки">
+    <input type="hidden" id="tinymce_plugin_link_link_text" value="Отображаемый текст">
+    <input type="hidden" id="tinymce_plugin_link_link_title" value="Заголовок">
+    <input type="hidden" id="tinymce_plugin_link_link_target" value="Открывать ссылку в новом окне">
+    <input type="hidden" id="tinymce_plugin_link_email_address" value="Email адрес">
+    <input type="hidden" id="tinymce_plugin_link_email_subject" value="Тема сообщения">
+    <input type="hidden" id="tinymce_plugin_link_email_body" value="Текст сообщения">
+    <input type="hidden" id="tinymce_plugin_link_anchor" value="Якорь">
+    <input type="hidden" id="tinymce_plugin_link_select_anchor" value="Выберите якорь">
+    <input type="hidden" id="translation_text_phone" value="Телефон">
+
+    <div id="constructor_layout_text_001"><p><span style="font-size: 24px; color: #333333;" ><strong>Заголовок первого уровня</strong></span></p><p>При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании.</p><p>&nbsp;</p><p><span style="font-size: 18px; color: #333333;" ><strong>Заголовок второго&nbsp;уровня</strong></span>&nbsp;</p><p><span style="font-size: 14px;" >При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании.&nbsp;<span style="line-height: 24px;" >При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании.</span></span></p></div>
+    <div id="constructor_layout_text_002"><p style="text-align: center;"><span style="font-size: 13px; line-height: 19.5px;">{{ec_es_email_sender_company}} • {{ec_es_email_sender_address}}</span></p></div>
+    <div id="constructor_layout_text_003"><p style="text-align: center;" ><span style="font-size: 13px;" >Вы получили данную рассылку, так как являетесь клиентом или подписчиком {{ec_es_email_sender_company}}. <a href="{{unsubscribe_url}}" >Отказаться от рассылки</a></span></p></div>
+    <div id="constructor_layout_text_004"><p style="text-align: left;" ><span style="font-size: 32px; color: #333333;" ><strong>Заголовок первого уровня</strong></span></p><p style="text-align: left;" >При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании.</p></div>
+    <div id="constructor_layout_text_005"><p><span style="font-size: 18px; color: #333333;" ><strong>Заголовок второго уровня</strong></span></p><p>Мы рекомендуем указывать свое имя и название компании.</p></div>
+    <div id="constructor_layout_text_006"><p style="text-align: center;"><span style="font-size: 13px; line-height: 19.5px;">&copy; Copyright, {{current_year}}, {{ec_es_email_sender_company}} • {{ec_es_email_sender_address}}</span></p></div>
+    <div id="constructor_layout_text_007"><p style="text-align: center;"><span style="font-size: 13px;">Вы получили данную рассылку, так как являетесь клиентом или подписчиком {{ec_es_email_sender_company}}. <a href="{{unsubscribe_url}}">Отказаться от рассылки</a></span></p></div>
+    <div id="constructor_layout_text_008"><p style="text-align: right;"><span style="font-size: 12px; color: #808080;"><span style="line-height: 15.6px;">Введите краткое описание своего сообщения. Этот текст может быть показан при предпросмотре письма.</span></span></p><p style="text-align: right;"><span style="font-size: 12px; color: #808080;"><a href="{{webversion}}">Просмотреть сообщение онлайн</a></span></p></div>
+    <div id="constructor_layout_text_009"><p style="text-align: center;" ><span style="font-size: 12px; color: #808080;" ><span style="line-height: 15.6px;" >Введите краткое описание своего сообщения.&nbsp;</span></span><span style="font-size: 12px; color: #808080;" ><a href="{{webversion}}" >Просмотреть сообщение онлайн</a></span></p></div>
+    <div id="constructor_layout_text_010"><h4><strong>Заголовок</strong></h4><p>При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании. При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании.</p></div>
+    <div id="constructor_layout_text_010"><h4><strong>Заголовок</strong></h4><p>При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании. При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании.</p></div>
+    <div id="constructor_layout_text_011"><p><span style="font-size: 12px; color: #808080;" >Введите краткое описание своего сообщения. Этот текст может быть показан при предпросмотре письма.&nbsp;</span><a style="font-size: 12px; line-height: 14.4px; text-align: right; background-color: #eeeeee;" href="{{webversion}}"  >Просмотреть сообщение онлайн</a></p></div>
+    <div id="constructor_layout_text_012"><p style="text-align: left;" ><span style="font-size: 24px; color: #333333;" ><strong>Заголовок первого уровня</strong></span></p><p style="text-align: left;" >При указании данных в поле «Имя отправителя» убедитесь, что внесенные вами данные четко и ясно описывают того, кто отправляет рассылку. Мы рекомендуем указывать свое имя и название компании.</p></div>
+    <div id="constructor_layout_text_013"><p style="text-align: center;" ><span style="font-size: 13px;" >{{ec_es_email_sender_company}} • {{ec_es_email_sender_address}}</span></p><p style="text-align: center;" ><span style="font-size: 13px;" >Вы получили данную рассылку, так как являетесь клиентом или подписчиком {{ec_es_email_sender_company}}. <a href="{{unsubscribe_url}}" >Отказаться от рассылки</a></span></p></div>
+    <div id="constructor_layout_text_014"><p style="text-align: center;" ><span style="font-size: 13px;" >© Copyright, {{current_year}}, {{ec_es_email_sender_company}} • {{ec_es_email_sender_address}}</span></p><p style="text-align: center;" ><span style="font-size: 13px;" >Вы получили данную рассылку, так как являетесь клиентом или подписчиком {{ec_es_email_sender_company}}. <a href="{{unsubscribe_url}}" >Отказаться от рассылки</a></span></p></div>
+
+    <div id="email_constructor_drag_this_element">Перетащите этот элемент в шаблон</div>
+
+    <input type="hidden" id="user_id" value="7395008">
+
+    <input type="hidden" id="folder_id" value="">
+
+    <div class="hidden" id="categories-list-box">
+        <div class="category-item" data-name="Отказаться от рассылки" data-id="0">
+            <a href="{{unsubscribe_url}}">Отказаться от рассылки</a>        </div>
+                        <div
+                    class="category-item js-unsubscribe-category"
+                    data-name="Отписаться от: мммммммммм"
+                    data-id="4614">
+                    <a href="{{unsubscribe_category_4614}}">
+                        Отписаться от: мммммммммм                    </a>
+                </div>
+                                <div
+                    class="category-item js-unsubscribe-category"
+                    data-name="Отписаться от: мммммммммм"
+                    data-id="4617">
+                    <a href="{{unsubscribe_category_4617}}">
+                        Отписаться от: мммммммммм                    </a>
+                </div>
+                                <div
+                    class="category-item js-unsubscribe-category"
+                    data-name="Отписаться от: ннннннннн"
+                    data-id="4613">
+                    <a href="{{unsubscribe_category_4613}}">
+                        Отписаться от: ннннннннн                    </a>
+                </div>
+                                <div
+                    class="category-item js-unsubscribe-category"
+                    data-name="Отписаться от: ннннннннн"
+                    data-id="4616">
+                    <a href="{{unsubscribe_category_4616}}">
+                        Отписаться от: ннннннннн                    </a>
+                </div>
+                                <div
+                    class="category-item js-unsubscribe-category"
+                    data-name="Отписаться от: веннннннннннннн"
+                    data-id="4612">
+                    <a href="{{unsubscribe_category_4612}}">
+                        Отписаться от: веннннннннннннн                    </a>
+                </div>
+                                <div
+                    class="category-item js-unsubscribe-category"
+                    data-name="Отписаться от: веннннннннннннн"
+                    data-id="4615">
+                    <a href="{{unsubscribe_category_4615}}">
+                        Отписаться от: веннннннннннннн                    </a>
+                </div>
+                    </div>
+
+    <input type="hidden" id="draft_id" value="">
+    <input type="hidden" id="template_draft_id" value="">
+
+</div>
+
+
+<div class="modal fade" id="image_gallery_modal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Загрузить изображения</h4>
+            </div>
+            <div class="modal-body"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="no_payment_method" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Настройки</h4>
+            </div>
+            <div class="modal-body">
+              <p>Для корректной работы оплаты, пожалуйста:</p>
+              <div class="alert alert-warning">
+                    <ul>
+                      <li class="payment-item">
+                          Настройте способы оплаты.                          <a href="/settings/#payment-systems" target="_blank" class="dashed"> Подключить</a>
+                      </li>
+                      <li class="pipe-item hidden"> no pipes</li>
+                    </ul>
+              </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade image-gallery-modal" id="image_gallery_modal_new">
+    <div class="modal-dialog modal-side">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button id="modal_galery" type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Загрузить изображения</h4>
+            </div>
+            <div class="modal-body"></div>
+            <div id="image-id-storge-block" class="hidden"></div>
+        </div>
+    </div>
+</div>
+
+<div class="hide" id="image_edit_modal">
+    <div class="navbar-menu">
+      <div class="description-menu">Редактор фото</div>
+      <div class="controls-menu">
+        <button class="btn btn-success btn-save" onclick="oEditor.saveEditImage()">Сохранить</button>
+        <span class="close-modal" onclick="$('#image_edit_modal').toggleClass('hide')"></span>
+      </div>
+    </div>
+    <div id="tui-image-editor-error-message" class="alert alert-danger" style="display: none;"></div>
+    <div id="tui-image-editor"></div>
+</div>
+
+<div class="modal fade" id="template_name_modal" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Название шаблона</h4>
+            </div>
+            <div class="modal-body">
+                <div id="email_constructor_template_name_error" class="alert alert-danger" style="display: none;"></div>
+
+                <label>
+                    Название шаблона                </label>
+                <input type="text" id='email_constructor_template_name' class="form-control" value="" autofocus onchange="oEmailConstructor.forgetSavedTemplate();">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+                <button type="button" class="btn btn-primary" id="email_constructor_template_save_btn" >Сохранить шаблон</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="not_filled_alerts" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Вы можете улучшить шаблон</h4>
+            </div>
+            <div class="modal-body">
+                <div id="email_constructor_not_filled_alerts" class="alert alert-danger" ></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="email_constructor_not_filled_fields_return" >Вернуться к редактору</button>
+                <button type="button" class="btn btn-primary" id="email_constructor_not_filled_fields_send" >Продолжить все равно</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="not_filled_variables_alerts" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Пожалуйста, введите недостающие данные</h4>
+            </div>
+            <div class="modal-body form-horizontal">
+                <div class="form-group" id="not_filled_profile_company_name">
+                    <label class="col-sm-5 control-label">
+                        Название компании                    </label>
+                    <div class="col-sm-7">
+                        <input class="form-control" type="text" id="input_not_filled_profile_company_name">
+                    </div>
+                </div>
+                <div class="form-group" id="not_filled_profile_company_address">
+                    <label class="col-sm-5 control-label">
+                        Адрес компании                    </label>
+                    <div class="col-sm-7">
+                        <input class="form-control" type="text" id="input_not_filled_profile_company_address">
+                    </div>
+                </div>
+                <div class="form-group" id="not_filled_profile_company_phone">
+                    <label class="col-sm-5 control-label">
+                        Телефон компании                    </label>
+                    <div class="col-sm-7">
+                        <input class="form-control" type="text" id="input_not_filled_profile_company_phone">
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="email_constructor_not_filled_variables_save" >Сохранить</button>
+                <button type="button" class="btn btn-primary" id="email_constructor_not_filled_variables_send" >Продолжить все равно</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="template_autosave_message" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">&nbsp;</h4>
+            </div>
+            <div class="modal-body">
+                Дальнейшие изменения будут сохраняться автоматически.            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="are_you_sure" role="dialog" tabindex="-1">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-body">
+                <p class="">&nbsp; <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button></p>
+                Вы уверены, что хотите удалить этот элемент?            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" id="are_you_sure_yes_bth" >Удалить</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="test_email_senders" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Получатели тестовой рассылки</h4>
+            </div>
+            <div class="modal-body" id="test_email_senders_body"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="test_email_senders_send" >Отправить</button>
+                <button type="button" class="btn btn-default" id="test_email_senders_cancel" data-dismiss="modal">Отмена</button>
+                <button type="button" class="btn btn-primary" id="test_email_senders_close" data-dismiss="modal" style="display: none;">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="modal_can_not_save_empty_email" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content" style="width: 550px;">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Письмо пустое</h4>
+            </div>
+            <div class="modal-body">
+                Нельзя сохранить пустое письмо            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" id="email_sent_now_button_cancel" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="modal_verification_notify" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content" style="width: 550px;">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Информация</h4>
+            </div>
+            <div class="modal-body">
+                Пожалуйста, заполните все необходимые поля            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">К редактированию</button>
+                <!-- <button type="button" class="btn btn-primary" onclick="oEmailConstructor.globalSaveButton(true)" data-dismiss="modal">Сохранить и продолжить</button> -->
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="modal_can_not_start_test_email" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content" style="width: 550px;">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Письмо пустое</h4>
+            </div>
+            <div class="modal-body">
+                Нельзя отправить пустое письмо            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" id="email_sent_now_button_cancel" data-dismiss="modal">Закрыть</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="add_addressbook_dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Добавить адресную книгу</h4>
+            </div>
+            <div class="modal-body">
+
+                <p class="alert alert-danger hidden alertNameExist">Адресная книга с таким именем уже существует</p>
+                <p class="alert alert-danger hidden alertNameEmpty">Неправильное название адресной книги</p>
+                <div class="form-group">
+                	<label class="control-label">Название адресной книги:</label>
+                    <input value="Новый список 83" type="text" class="form-control"
+                           id="add_new_addressbook_name" onkeyup="if (event.keyCode == 13) {
+                                                addAddressBook()
+                                            }" >
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="addAddressBook();" class="btn btn-primary">Добавить</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="add_sender_dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Новый адрес отправителя</h4>
+            </div>
+            <div class="modal-body">
+                    <div class="form-group">
+                        <label>Email адрес отправителя:&nbsp;</label>
+                        <input id="new_sender_email_address" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Имя отправителя:&nbsp;</label>
+                        <input id="new_sender_email_name" class="form-control">
+                    </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="addSenderEmailAddress();" class="btn btn-primary">Добавить</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="save_block_name_dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" >Сохранение элемента</h4>
+            </div>
+            <div class="modal-body">
+                <div id="save_block_name_dialog_error_message" class="alert alert-danger" style="display: none;"></div>
+                <div class="form-group">
+                    <label class="control-label">Укажите название элемента:</label>
+                    <input id="save_block_name_dialog_input" class="form-control">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="save_block_name_dialog_save_button" class="btn btn-primary">Сохранить</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="save_block_name_selection_dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" >Сохранение элемента</h4>
+            </div>
+            <div class="modal-body">
+                <table width="100%">
+                    <tr>
+                        <th align="right">Сохранить текущий или создать новый?&nbsp;</th>
+                    </tr>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="save_old_block_name_dialog_save_button" class="btn btn-primary">Сохранить</button>
+                <button type="button" id="save_new_block_name_dialog_save_button" class="btn btn-primary">Новый</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="column_width_dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" >Ширина колонок</h4>
+            </div>
+            <div class="modal-body">
+                <table width="100%">
+                    <tr class="data">
+                        <td style="display: none;"><input style="width: 100px; display: inline-block;" class="form-control"> px</td>
+                        <td style="display: none;"><input style="width: 100px; display: inline-block;" class="form-control"> px</td>
+                        <td style="display: none;"><input style="width: 100px; display: inline-block;" class="form-control"> px</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary">Сохранить</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Отмена</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="empty_senders" tabindex="-1" role="dialog"  data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" >Информация</h4>
+            </div>
+            <div class="modal-body">
+                У вас нет подтверждённых отправителей. <a href='/emailservice/senders/'>Создайте нового</a> или подтвердите существующего.            </div>
+            <div class="modal-footer">
+                <button onclick="window.location = '/emailservice/senders/';" type="button" class="btn btn-primary">Oк</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="dialog_after_add_sender" tabindex="-1" role="dialog"  data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" >Информация</h4>
+            </div>
+            <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+                <button onclick="$('#dialog_after_add_sender').modal('hide');" type="button" class="btn btn-primary">Oк</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="alert alert-success fade alert-dismissible alert-toast" role="alert" id="div_autosave_message_new">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+    Все изменения будут сохраняться автоматически.</div>
+
+<div class="alert alert-success fade alert-dismissible alert-toast" role="alert" id="template_draft_autosave_message">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+    Черновик сохранен в шаблонах</div>
+
+<div class="alert alert-success fade alert-dismissible alert-toast" role="alert" id="rollover_file_added_alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+    <span class="js-rollover-file-added-alert-text"></span>
+</div>
+<div class="hidden" id="rollover_file_added_alert_text">Файл применен:</div>
+
+<div class="alert alert-success fade alert-dismissible alert-toast" role="alert" id="campaign_draft_autosave_message">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+    Черновик сохранен в разделе "Мои рассылки"</div>
+
+<script>
+    $(document).ready(function() {
+        moment.locale('ru');
+        oEmailConstructor.sLang = 'ru';
+
+        
+        oEmailConstructor.sLang = 'ru';
+
+
+        var iUserId = parseInt($('#user_id').val());
+        var bNeedReask = ($.inArray(iUserId, [169497])==-1);
+        let intervalAutosaveTemplate = 120 * 1000; // 2 minutes
+
+        if (bNeedReask) {
+            window.onbeforeunload = function (evt) {
+                if (! oEmailConstructor.bTemplateSaved){
+                    var message = $('#email_constructor_before_unload_message').val();
+                    if (typeof evt == "undefined") {
+                        evt = window.event;
+                    }
+
+                    if (evt) {
+                        evt.returnValue = message;
+                    }
+                    return message;
+                }
+            };
+        }
+
+        oEmailConstructor.bShowSaveButton = true;
+
+        if (checkInitLocalStorage()) {
+            localStorage.setItem('currentTargetCreatingTemplate', 'task')
+        }
+
+        if (checkLocalStorage()) {
+            if (localStorage.getItem('currentTargetCreatingTemplate') == 'template') {
+                $('#header_menu_last_step').html($('#email_constructor_save_template_menu').html());
+            }
+        }
+        jQuery.event.props.push('dataTransfer');
+        oEmailConstructor.startInit(0,0);
+
+        var taskData = oEmailConstructor.campaignData; // from new wizard
+        if (taskData && (taskData.address_books || taskData.crm || taskData.edu) ) {
+          if (taskData.crm) {
+            oEmailConstructor.getCrmVariables();
+          } else if(taskData.edu) {
+            // #50293#note-16 hardcode
+            $('#variables_ab').html('firstName|lastName|courseName|phone');
+            oEmailConstructor.bReinitAllTinymce(true);
+            oEmailConstructor.rebindEvents();
+          } else {
+            oEmailConstructor.getAbookVariables(taskData.address_books.join(','));
+          }
+        } else if (checkLocalStorage() && localStorage.getItem('address_book_id')) {
+            oEmailConstructor.getAbookVariables(localStorage.getItem('address_book_id'));
+            localStorage.removeItem('address_book_id');
+        } else if (checkLocalStorage() && localStorage.getItem('currentTargetCreatingTemplate') === 'autoflow') {
+            if (localStorage.getItem('address_book_id')) {
+                oEmailConstructor.getAbookVariables(localStorage.getItem('address_book_id'));
+            } else if (localStorage.getItem('event_id') && localStorage.getItem('sub_abook_id')) {
+                oEmailConstructor.getEventVariables(localStorage.getItem('event_id'), localStorage.getItem('sub_abook_id'));
+            } else if (localStorage.getItem('event_id')) {
+                oEmailConstructor.getEventVariables(localStorage.getItem('event_id'));
+            }
+            localStorage.removeItem('address_book_id');
+            localStorage.removeItem('event_id');
+            localStorage.removeItem('sub_abook_id');
+        } else if (checkLocalStorage()
+            && localStorage.getItem('currentTargetCreatingTemplate') === 'landing-page')
+        {
+
+        } else {
+            oEmailConstructor.getAbookVariables($('#email_constructor_address_book_id').val().split('|'));
+        }
+        oEmailConstructor.initPropertyDiv($('div#current-block'));
+
+        oEmailConstructor.setMainAreaHeight();
+        oEmailConstructor.iStep = 2;
+        oEmailConstructor.getUsersBlocks();
+        oEmailConstructor.getExamplesBlock();
+        oEditor.fillGlobalSettings();
+
+        oEmailConstructor.iTemplateId = parseInt($('#email_constructor_template_id').val());
+
+        if (checkLocalStorage()) {
+            if (localStorage.getItem('currentTargetCreatingTemplate') == 'template') {
+                if (localStorage.getItem('TemplateDraftId')) {
+                    oEmailConstructor.bTemplateSaved = false;
+                    oEmailConstructor.bStartFromSavedTemplate = false;
+                    oEmailConstructor.iTemplateId = 0;
+                    $('#email_constructor_template_id').val('');
+                    $('#email_constructor_template_name').val('');
+                }
+            }
+        }
+
+        if (oEmailConstructor.iTemplateId) {
+            if (parseInt($('#email_constructor_common_template').val()) == 0 ) {
+                $('#email_constructor_template_name').val('');
+                oEmailConstructor.bTemplateSavePressed = true;
+                oEmailConstructor.bStartFromSavedTemplate = true;
+                setTimeout(function() {
+                    $('#div_autosave_message_new').addClass('in');
+                    setTimeout(function(){
+                        $('#div_autosave_message_new').removeClass('in');
+                    },10000)
+                }, 5000);
+            } else {
+                oEmailConstructor.bTemplateSavePressed = false;
+                oEmailConstructor.bStartFromSavedTemplate = false;
+            }
+        }
+
+        if (checkLocalStorage() && (localStorage.getItem('currentTargetCreatingTemplate') == 'template') ){
+            $('#saveandcontinuebutton').html('Сохранить');
+            $('#saveandcontinuebutton').attr('onclick','oEmailConstructor.globalSaveButton();')
+            // onclick="oEmailConstructor.saveTemplate(false, false);
+        }
+
+        var bBottomButton = true;
+
+        $('#addStructureBtn').on('click',function(){
+            var bOpened = ($('#collapseStructures').attr('aria-expanded') == 'true');
+            var bNeedReopen = (bOpened && (! bBottomButton));
+            /*
+            console.log(bOpened);
+            console.log(bBottomButton);
+            console.log(bNeedReopen);
+
+            if (bNeedReopen) {
+                $('#collapseStructures').collapse('toggle');
+            }
+            */
+
+            bBottomButton = true;
+
+            if (! bOpened) {
+                $('#collapseStructures').css('position','').css('top','').css('z-index','');
+                $('#collapseStructures').removeClass('pull-left');
+            }
+
+            $('#collapseStructures').collapse('toggle');
+
+            if (bNeedReopen){
+                setTimeout(function(){
+                    $('#collapseStructures').css('position','').css('top','').css('z-index','');
+                    $('#collapseStructures').removeClass('pull-left');
+
+                    $('#collapseStructures').collapse('toggle');
+                },500);
+            }
+
+
+        });
+
+        $('#addStructureBtnLeft').on('click',function(){
+            var bOpened = ($('#collapseStructures').attr('aria-expanded') == 'true');
+            var bNeedReopen = (bOpened && bBottomButton);
+            /*
+            console.log(bOpened);
+            console.log(bBottomButton);
+            console.log(bNeedReopen);
+
+            if (bNeedReopen) {
+                $('#collapseStructures').collapse('toggle');
+            }
+            */
+            bBottomButton = false;
+
+            if (! bOpened) {
+                /*var winHeight = parseFloat($('#content-placeholder').css('height').replace('px', ''));
+                var leftMentHeight = parseFloat($('#addStructureBtnLeft').css('height').replace('px', '')) + $('#addStructureBtnLeft').offset().top;
+                var buttonTop = parseFloat($('#addStructureBtnLeft').offset().top);
+
+                if (leftMentHeight <= winHeight) {
+                    var blockHeight = 100;
+                    $('#collapseStructures').css('position', 'fixed').css('top', buttonTop - blockHeight + 'px').css('z-index', '999');
+                } else {
+                    var blockHeight = 230;
+                    $('#collapseStructures').css('position', 'fixed').css('top', winHeight - blockHeight + 'px').css('z-index', '999');
+                }*/
+
+                $('#collapseStructures').addClass('pull-left');
+            }
+
+            $('#collapseStructures').collapse('toggle');
+
+            if (bNeedReopen){
+                setTimeout(function(){
+                    /*var winHeight = parseFloat($('#content-placeholder').css('height').replace('px', ''));
+                    var leftMentHeight = parseFloat($('#addStructureBtnLeft').css('height').replace('px', '')) + $('#addStructureBtnLeft').offset().top;
+                    var buttonTop = parseFloat($('#addStructureBtnLeft').offset().top);
+
+                    if (leftMentHeight <= winHeight) {
+                        var blockHeight = 100;
+                        $('#collapseStructures').css('position', 'fixed').css('top', buttonTop - blockHeight + 'px').css('z-index', '999');
+                    } else {
+                        var blockHeight = 230;
+                        $('#collapseStructures').css('position', 'fixed').css('top', winHeight - blockHeight + 'px').css('z-index', '999');
+                    }*/
+
+                    $('#collapseStructures').addClass('pull-left');
+
+                    $('#collapseStructures').collapse('toggle');
+                },500);
+            }
+
+        });
+
+        $('#collapseStructures').on('show.bs.collapse',function(){
+            if (bBottomButton) {
+                var  emailWrapper  =  $('#email-wrapper');
+                var  bottom  =  emailWrapper.prop('scrollHeight')  +  210;
+                emailWrapper.animate({  scrollTop:  bottom  },  500);
+            }
+            /*
+            $('#DroppableDiv').on('click', function () {
+                $('#collapseStructures').collapse('hide');
+            })
+            */
+        });
+
+        $('#collapseCheckout').on('show.bs.collapse',function(){
+             $('#checkoutBtn').on('blur', function () {
+                 setTimeout(function () {
+                     $('#collapseCheckout').collapse('hide');
+                 }, 500);
+
+             });
+        });
+
+        $('#collapsePreview').on('show.bs.collapse', function () {
+            preview();
+            $('#constructorHeader').addClass('preview-mode');
+            $('body').addClass('preview-mode-body');
+        });
+        $('#collapsePreview').on('hide.bs.collapse', function () {
+            $('#constructorHeader').removeClass('preview-mode');
+            $('body').removeClass('preview-mode-body');
+        });
+
+        oSocialNet.aSocNetNames = JSON.parse($('#email_constructor_socnet_names').val());
+
+        function lazyLoadSrc(id) {
+            var dataSrc = $(id).data('src');
+            $(id).attr('src', dataSrc);
+        }
+        setTimeout(function () {
+            //lazyLoadSrc('#iframe_sent_data_block');
+            lazyLoadSrc('#img_upload');
+        }, 2000);
+
+        /* tooltip when a draggable element clicked */
+        var $draggableElements = $('#email-structure').find('.draggable');
+        $draggableElements.tooltip({
+            title: $('#email_constructor_drag_this_element').text(),
+            container: 'body',
+            trigger: 'manual',
+            placement: 'right'
+        });
+        $draggableElements.on('click', function (e) {
+            destroyDragHelpPopover();
+            oDragNDrop.isDragElemClicked = 1;
+            showDragHelpPopover($(this), oDragNDrop.isDragElemClicked);
+        });
+        $(window).on('elemDraggingStart', function () {
+            destroyDragHelpPopover();
+        });
+
+        setTimeout(function(){
+            oEmailConstructor.rebindEvents();
+        }, 2000);
+
+        if (checkLocalStorage()) {
+            if (localStorage.getItem('currentTargetCreatingTemplate') == 'task') {
+                if (localStorage.getItem('iDraftID') && (localStorage.getItem('iDraftID') != 'NaN')) {
+                    $('#draft_id').val(localStorage.getItem('iDraftID'));
+                };
+                setInterval(function () {
+                    if (oEmailConstructor.checkForEqualsWithInitTemplate()) return;
+
+                    if (!oEmailConstructor.checkEmptyTemplate()) {
+                        oEmailConstructor.saveDraft();
+                    }
+                }, intervalAutosaveTemplate);
+            }
+        };
+
+        if (checkLocalStorage()) {
+            if (localStorage.getItem('currentTargetCreatingTemplate') == 'template') {
+                if (!(oEmailConstructor.bTemplateSaved || oEmailConstructor.bStartFromSavedTemplate)) {
+                    if (localStorage.getItem('TemplateDraftId')) {
+                        $('#template_draft_id').val(localStorage.getItem('TemplateDraftId'));
+                    }
+                    setInterval(function () {
+                        if (oEmailConstructor.checkForEqualsWithInitTemplate()) return;
+
+                        if (!(oEmailConstructor.bTemplateSaved || oEmailConstructor.bStartFromSavedTemplate)) {
+                            if (!oEmailConstructor.checkEmptyTemplate()) {
+                                oEmailConstructor.saveTemplateDraft();
+                            }
+                        }
+                    }, intervalAutosaveTemplate);
+                }
+            }
+        };
+
+        $(document).on("click", "#test_send_email_radio_custom", function () {
+            if ($(this).is(':checked')) {
+                $(this).siblings('input').prop("disabled", false);
+            } else {
+                $(this).siblings('input').prop("disabled", true);
+            }
+        });
+        /*
+        console.log("REFERRER");
+        console.log(document.referrer);
+        */
+
+        oEmailConstructor.checkForEmpty();
+
+        $(document).on('keydown', function(event) {
+
+            if (event.ctrlKey && event.shiftKey && event.keyCode === 90) {
+                return !$('#email_constructor_redo_button').hasClass('disabled') && oEmailConstructor.historyRedo();;
+            }
+
+            if (event.ctrlKey && event.keyCode === 90) {
+                return !$('#email_constructor_undo_button').hasClass('disabled') && oEmailConstructor.historyUndo();
+            }
+        })
+
+        var unsub_link_interval = setInterval(() => {
+            !oEmailConstructor.unsubscribe_link_warning_showed
+                ? oEmailConstructor.checkForUnsubscribeLink()
+                : clearInterval(unsub_link_interval);
+        }, 5000)
+
+        //Landing-page preset kostil
+        if (checkLocalStorage()
+            && localStorage.getItem('currentTargetCreatingTemplate') === 'landing-page') {
+            clearInterval(unsub_link_interval);
+            $('#saveandcontinuebutton').parent().find('.dropdown-toggle').hide();
+            $('.js-start-test-mail').hide();
+            oEditor.changeEmailWidth('1200px');
+            $('#email_width_select').append('<option value="900px">900px</option>');
+            $('#email_width_select').append('<option value="1000px">1000px</option>');
+            $('#email_width_select').append('<option selected value="1200px">1200px</option>');
+        }
+    });
+
+    function showDragHelpPopover(target, isDragElemClicked) {
+        setTimeout(function () {
+            if (isDragElemClicked && !oDragNDrop.isDragElemDragged) {
+                target.tooltip('show');
+            }
+        }, 300);
+    }
+    function destroyDragHelpPopover() {
+        $('#email-structure').find('.element[aria-describedby]').tooltip('destroy');
+    }
+
+    function getUrlParameter (sParam) {
+        var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+            sURLVariables = sPageURL.split('&'),
+            sParameterName,
+            i;
+
+        for (i = 0; i < sURLVariables.length; i++) {
+            sParameterName = sURLVariables[i].split('=');
+
+            if (sParameterName[0] === sParam) {
+                return sParameterName[1] === undefined ? true : sParameterName[1];
+            }
+        }
+    }
+
+    function showDialogAddAddressBook(){
+        $('#add_addressbook_dialog').modal('show');
+    }
+    function showDialogAddSender(){
+        $('#add_sender_dialog').modal('show');
+    }
+    function addAddressBook() {
+        var addressbook_name = $.trim($('#add_new_addressbook_name').val());
+        if (!addressbook_name) {
+            $('#add_new_addressbook_name').parent().addClass('has-error');
+            if(!$('.alertNameExist').hasClass('hidden')){
+                $('.alertNameExist').addClass('hidden');
+            }
+            if ($('.alertNameEmpty').length)
+                $('.alertNameEmpty').removeClass('hidden');
+            return false;
+        }
+        if (addressbook_name) {
+            var dataToSend;
+            dataToSend = {
+                addressbook_name: $('#add_new_addressbook_name').val(),
+                check_dup: 1
+            };
+            $.ajax({
+                url: '/members/emailservice/addressbooks/add',
+                type: 'post',
+                data: dataToSend,
+                cache: false,
+                success: function(responseText) {
+                    if (responseText) {
+                        if(responseText==-1){
+                            $('#add_new_addressbook_name').parent().addClass('has-error');
+                            $('.alertNameExist').removeClass('hidden');
+                        }else{
+                            $('#add_new_addressbook_name').parent().removeClass('has-error');
+                            if(!$('.alertNameExist').hasClass('hidden')){
+                                $('.alertNameExist').addClass('hidden');
+                            }
+                            if(!$('.alertNameEmpty').hasClass('hidden')){
+                                $('.alertNameEmpty').addClass('hidden');
+                            }
+                            $('#add_addressbook_dialog').modal('hide');
+                            location.replace('/members/emailservice/addressbooks/upload/id/' + responseText);
+                        }
+                    }
+                }
+            });
+        }
+    };
+    function addSenderEmailAddress() {
+        var sender_email = $('#new_sender_email_address').val();
+        var sender_email = $.trim($('#new_sender_email_address').val());
+        if (!sender_email || !validEmail(sender_email)) {
+            $('#new_sender_email_address').parent().addClass('has-error');
+            return false;
+        }
+        $('#new_sender_email_address').parent().removeClass('has-error');
+        if (!$('#new_sender_email_name').val()) {
+            $('#new_sender_email_name').parent().addClass('has-error');
+            return false;
+        }
+        $('#add_sender_dialog').modal('hide');
+        var dataToSend = {
+            sender_email_address: sender_email,
+            sender_email_name: $('#new_sender_email_name').val()
+        };
+        startBlockUI();
+
+        $.ajax({
+            url: '/members/emailservice/senders/validate-email',
+            type: 'post',
+            data: { 'email': sender_email },
+            cache: false,
+            dataType: 'json',
+            success: function( response ) {
+                if( response.type ) {
+
+                    $.ajax({
+                        url: '/members/emailservice/senders/add',
+                        type: 'post',
+                        data: dataToSend,
+                        cache: false,
+                        dataType: 'json',
+                        success: function(response) {
+                            if (response.type) {
+                                $.ajax({
+                                    url: '/members/emailservice/senders/sendactivationcode',
+                                    data: {sender_email_id: response.sender_email_id},
+                                    cache: false,
+                                    type: 'post',
+                                    success: function(responseText) {
+                                        endBlockUSerUI();
+                                        responseText = JSON.parse(responseText);
+                                        if (responseText.type) {
+                                            $('#dialog_after_add_sender .modal-body').html(responseText.message);
+                                            $('#dialog_after_add_sender').modal('show');
+                                        }
+                                    }
+                                });
+                            } else {
+                                endBlockUSerUI();
+                                alert(response.comment);
+                            }
+                        }
+                    });
+
+                    } else {
+                        endBlockUSerUI();
+                        $('#dialog_after_add_sender .modal-body').html( '<p>' + response.comment_short + '</p>');
+                        $('#dialog_after_add_sender').modal('show');
+                    }
+                }
+            });
+    };
+
+
+</script>
+
+<style>
+    .droppable.droppable-empty::after {
+        content: 'Перетащите сюда элемент из меню "Элементы"';
+    }
+    .video-default-placeholder::after {
+        content: 'Добавьте ссылку на Видео';
+    }
+    .img-default-placeholder::after {
+        content: 'или перетащите сюда картинку';
+    }
+
+</style>
+
+    <div style="display: none">
+        <input type="hidden" id="tour_trans_step_1_title" value="Панель элементов">
+        <input type="hidden" id="tour_trans_step_1_content" value="Эти элементы можно перетащить в шаблон">
+        <input type="hidden" id="tour_trans_step_2_title" value="Добавление колонок">
+        <input type="hidden" id="tour_trans_step_2_content" value="Кнопка для добавления в шаблон многоколоночных структур и сохраненных элементов">
+        <input type="hidden" id="tour_trans_step_3_title" value="Редактирование текста">
+        <input type="hidden" id="tour_trans_step_3_content" value="Кликните по текстовому блоку и редактируйте прямо в шаблоне">
+        <input type="hidden" id="tour_trans_step_4_title" value="Предпросмотр">
+        <input type="hidden" id="tour_trans_step_4_content" value="Посмотрите, как отображается ваше письмо в email-клиенте и на телефоне">
+    </div>
+
+
+    <div id="tourTemplate">
+        <div class='popover tour'>
+            <div class='arrow'></div>
+            <h3 class='popover-title'></h3>
+            <button class="close" data-role='end'>&times;</button>
+            <div class='popover-content'></div>
+            <div class='popover-navigation clearfix'>
+                <small class="tour-steps"></small>
+                <button class='btn btn-primary btn-next pull-right' data-role='next'>
+                    Далее                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </button>
+                <button class='btn btn-default btn-end hidden' data-role='end'>
+                    <span class="glyphicon glyphicon-remove"></span>
+                    Закрыть                </button>
+            </div>
+        </div>
+    </div>
+    <script src="/js/my/bootstrap-tour.min.js" type="text/javascript"></script>
+            <script src="/dist/js/constructor/tour.js" type="text/javascript"></script>
+    
+<script>
+var tuiImageEditorLocale = {
+  'Apply':'Применить',
+  'Arrow':'Стрелка',
+  'Arrow-2':'Стрелка-2',
+  'Arrow-3':'Стрелка-3',
+  'Blend':'Наложение',
+  'Blur':'Размытие',
+  'Bold':'Полужирный',
+  'Brightness':'Яркость',
+  'Bubble':'Выноска',
+  'Cancel':'Отменить',
+  'Center':'По центру',
+  'Circle':'Круг',
+  'Color':'Цвет',
+  'Color Filter':'Преобразование цвета',
+  'Crop':'Обрезка',
+  'Custom':'Настройка',
+  'Custom icon':'Пользовательская иконка',
+  'Delete':'Удалить',
+  'DeleteAll':'Удалить все',
+  'Distance':'Расстояние',
+  'Download':'Загрузить',
+  'Draw':'Рисунок',
+  'Emboss':'Рельеф',
+  'Fill':'Заливка',
+  'Filter':'Фильтры',
+  'Flip':'Отражение',
+  'Flip X':'Отразить по вертикали',
+  'Flip Y':'Отразить по горизонтали',
+  'Free':'Произвольно',
+  'Grayscale':'Черно-белый',
+  'Hand':'Рука',
+  'Heart':'Сердце',
+  'History':'История',
+  'Icon':'Иконки',
+  'Invert':'Инверсия',
+  'Italic':'Курсив',
+  'Left':'По левому краю',
+  'Load':'Загрузка',
+  'Load Mask Image':"Загрузить изображение слоя маски",
+  'Lock Aspect Ratio':"Зафиксировать пропорции",
+  'Location':'Место.',
+  'Mask':'Слой маски',
+  'Multiply':'Умножение',
+  'Noise':'Шум',
+  'Pixelate':'Пикселизация',
+  'Polygon':'М-угол.',
+  'Range':'Значение',
+  'Rectangle':'Прямоугольник',
+  'Redo':'Вернуть',
+  'Remove White':'Удалить белый фон',
+  'Reset':'Сбросить',
+  'Resize':'Изменение размера',
+  'Right':'По правому краю',
+  'Rotate':'Поворот',
+  'Sepia':'Сепия',
+  'Sepia2':'Сепия2',
+  'Shape':'Фигуры',
+  'Sharpen':'Резкость',
+  'Square':'Квадрат',
+  'Star-1':'Звезда-1',
+  'Star-2':'Звезда-2',
+  'Straight':'Прямая',
+  'Stroke':'Контур',
+  'Text':'Текст',
+  'Text size':'Размер текста',
+  'Threshold':'Порог',
+  'Tint':'Оттенок',
+  'Triangle':'Треугольник',
+  'Underline':'Подчеркнутый',
+  'Undo':'Отменить',
+  'Value':'Значение',
+  'ZoomIn':'Увеличить',
+  'ZoomOut':'Уменьшить',
+  'Width':'Ширина',
+  'Height':'Высота',
+};
+
+var tuiImageEditorTheme = {
+  "header.display": "none",
+  'common.bisize.width': '251px',
+  'common.bisize.height': '21px',
+  // 'common.backgroundImage': './img/bg.png',
+  'common.backgroundColor': '#FBFCFC',
+  'common.border': '0px solid #c1c1c1',
+ /*  // header
+  'header.backgroundImage': 'none',
+  'header.backgroundColor': 'transparent',
+  'header.border': '0px',
+  // load button
+  'loadButton.backgroundColor': '#fff',
+  'loadButton.border': '1px solid #ddd',
+  'loadButton.color': '#222',
+  'loadButton.fontFamily': "'Noto Sans', sans-serif",
+  'loadButton.fontSize': '12px',
+  // download button
+  'downloadButton.backgroundColor': '#fdba3b',
+  'downloadButton.border': '1px solid #fdba3b',
+  'downloadButton.color': '#fff',
+  'downloadButton.fontFamily': "'Noto Sans', sans-serif",
+  'downloadButton.fontSize': '12px', */
+  // main icons
+  'menu.normalIcon.color': '#688FA1',//?
+  'menu.activeIcon.color': '#555555',
+  'menu.disabledIcon.color': '#434343',
+  'menu.hoverIcon.color': '#ff0000',//?
+  'menu.iconSize.width': '24px',
+  'menu.iconSize.height': '24px',
+  // submenu icons
+  'submenu.normalIcon.color': '#688FA1',
+  'submenu.activeIcon.color': '#075B6A',
+  'submenu.iconSize.width': '32px',
+  'submenu.iconSize.height': '32px',
+  // submenu primary color
+  'submenu.backgroundColor': '#F5F7F7',
+  'submenu.partition.color': '#e5e5e5',
+  // submenu labels
+  'submenu.normalLabel.color': '#688FA1',
+  'submenu.normalLabel.fontWeight': 'normal',
+  'submenu.activeLabel.color': '#075B6A',
+  'submenu.activeLabel.fontWeight': 'normal',
+  // checkbox style
+  'checkbox.border': '1px solid #ccc',
+  'checkbox.backgroundColor': '#fff',
+  // rango style
+  'range.pointer.color': '#333',
+  'range.bar.color': '#ccc',
+  'range.subbar.color': '#606060',
+
+  'range.disabledPointer.color': '#d3d3d3',
+  'range.disabledBar.color': 'rgba(85,85,85,0.06)',
+  'range.disabledSubbar.color': 'rgba(51,51,51,0.2)',
+
+  'range.value.color': '#000',
+  'range.value.fontWeight': 'normal',
+  'range.value.fontSize': '11px',
+  'range.value.border': '0',
+  'range.value.backgroundColor': '#f5f5f5',
+  'range.title.color': '#000',
+  'range.title.fontWeight': 'lighter',
+  // colorpicker style
+  'colorpicker.button.border': '0px',
+  'colorpicker.title.color': '#000',
+}
+</script>
+
+
+<div id="template_page" class="hidden">constructor_structure</div>
+</div></div></div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        setInterval(function() {
+            $.ajax({
+                url: '/members/index/alive',
+                cache: false,
+                type: 'get',
+                async: true
+            })
+        }, 600000);
+    })
+</script>
+
+
+    <!-- SendPulse AB website tests -->
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '304832899913845'); // Insert your pixel ID here.
+                fbq('track', 'PageView');
+            </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=304832899913845&ev=PageView&noscript=1"
+            /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+<div style="display: none;">
+    <div id="information_modal_title">Информация</div>
+    <div id="dialog_ok_button">Oк</div>
+    <div id="dialog_allow_button">Разрешить</div>
+    <div id="dialog_cancel_button">Отмена</div>
+    <div id="unknown_error">Извините, произошла неизвестная ошибка. Попробуйте повторить действие позже либо обратитесь в отдел технической поддержки.</div>
+    <div id="close_btn_text" class="hidden">Закрыть</div>
+</div>
+</body>
+</html>
