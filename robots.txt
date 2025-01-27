@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lyakhovaya.github.io/webtest/sitemap.xml
